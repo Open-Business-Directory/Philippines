@@ -4,7 +4,8 @@
   "description": "Open Source Business Directory for Philippines",
   "main": "index.js",
   "scripts": {
-    "serve": "concurrently --kill-others \"npx netlify-cms-proxy-server\" \"php -t _site -S localhost:5000\""
+    "serve": "concurrently --kill-others \"npx netlify-cms-proxy-server\" \"php -t _site -S localhost:5000\"",
+    "build": "node index.js"
   },
   "repository": {
     "type": "git",
