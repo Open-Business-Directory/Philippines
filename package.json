@@ -1,6 +1,6 @@
 {
-  "name": "open-business-directory-ph",
-  "version": "1.0.0",
+  "name": "open-business-directory-philippines",
+  "version": "0.0.1",
   "description": "Open Source Business Directory for Philippines",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
